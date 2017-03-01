@@ -1,0 +1,35 @@
+body {
+	width: 80%;
+	margin: 0 auto;
+}
+.item img {
+	display: block;
+	margin: auto;
+}
+.row {
+	margin: 10px auto;
+}
+.produit img {
+	display: block;
+	margin: auto;
+}
+.produit h2 {
+	text-align:center;
+}
+.modal {
+	margin: auto;
+}
+footer {
+	border: 2px solid grey;
+}
+footer p{
+	text-align: center;
+}
+@media screen and (max-width: 1026px) {
+body {
+	width: 100%;
+}
+h1 {
+	font-size: 26px;
+}
+}
